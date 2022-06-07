@@ -1,19 +1,19 @@
 {
-    "version": "0.23.0",
+    "version": "0.24.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/hupe1980/gotoaws/releases/download/v0.23.0/gotoaws_Windows_i386.zip",
+            "url": "https://github.com/hupe1980/gotoaws/releases/download/v0.24.0/gotoaws_Windows_i386.zip",
             "bin": [
                 "gotoaws.exe"
             ],
-            "hash": "c3dbaa550ada88fe18b6deb4f434902a06debc51f1e30a41e26cf02d980626b8"
+            "hash": "0ae4595d4293e93e7863a2d9269dd67173ce8c3ec21cab494c11b2616ab7455e"
         },
         "64bit": {
-            "url": "https://github.com/hupe1980/gotoaws/releases/download/v0.23.0/gotoaws_Windows_x86_64.zip",
+            "url": "https://github.com/hupe1980/gotoaws/releases/download/v0.24.0/gotoaws_Windows_x86_64.zip",
             "bin": [
                 "gotoaws.exe"
             ],
-            "hash": "e3b7798b979de179163b1c5cc0dba5eb6bb798e6bb88fbaf958d0597f900a048"
+            "hash": "d80d49ff425200f6b9ad9fba289974b81ac54b15ac24716a0a0f5253df3b85e6"
         }
     },
     "homepage": "https://github.com/hupe1980/gotoaws",
